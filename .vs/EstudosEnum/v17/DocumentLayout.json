@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosEnum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73091B32-6526-40FA-BC50-ECE09623942B}|EstudosEnum\\EstudosEnum.csproj|c:\\users\\caioa\\documents\\caio\\vscommunity\\estudosenum\\estudosenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73091B32-6526-40FA-BC50-ECE09623942B}|EstudosEnum\\EstudosEnum.csproj|solutionrelative:estudosenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73091B32-6526-40FA-BC50-ECE09623942B}|EstudosEnum\\EstudosEnum.csproj|c:\\users\\caioa\\documents\\caio\\vscommunity\\estudosenum\\estudosenum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73091B32-6526-40FA-BC50-ECE09623942B}|EstudosEnum\\EstudosEnum.csproj|solutionrelative:estudosenum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73091B32-6526-40FA-BC50-ECE09623942B}|EstudosEnum\\EstudosEnum.csproj|c:\\users\\caioa\\documents\\caio\\vscommunity\\estudosenum\\estudosenum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73091B32-6526-40FA-BC50-ECE09623942B}|EstudosEnum\\EstudosEnum.csproj|solutionrelative:estudosenum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosEnum\\EstudosEnum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "EstudosEnum\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosEnum\\EstudosEnum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "EstudosEnum\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:36:30.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosEnum\\EstudosEnum\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "EstudosEnum\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosEnum\\EstudosEnum\\Entities\\Order.cs",
+              "RelativeToolTip": "EstudosEnum\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:33:59.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosEnum\\EstudosEnum\\Program.cs",
+              "RelativeDocumentMoniker": "EstudosEnum\\Program.cs",
+              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosEnum\\EstudosEnum\\Program.cs",
+              "RelativeToolTip": "EstudosEnum\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:00:33.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

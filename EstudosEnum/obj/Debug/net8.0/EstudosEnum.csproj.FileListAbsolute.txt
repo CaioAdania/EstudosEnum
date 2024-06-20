@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\EstudosEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\EstudosEnum.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\EstudosEnum.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\EstudosEnum.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\bin\Debug\net8.0\EstudosEnum.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\bin\Debug\net8.0\EstudosEnum.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\bin\Debug\net8.0\EstudosEnum.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\bin\Debug\net8.0\EstudosEnum.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\bin\Debug\net8.0\EstudosEnum.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\EstudosEnum.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\refint\EstudosEnum.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\EstudosEnum.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\EstudosEnum.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosEnum\EstudosEnum\obj\Debug\net8.0\ref\EstudosEnum.dll
